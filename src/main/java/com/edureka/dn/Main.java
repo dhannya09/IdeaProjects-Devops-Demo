@@ -5,4 +5,8 @@ public class Main {
 
         System.out.println("Hello world!");
     }
+
+    public void b1(){
+        System.out.println("Hello");
+    }
 }
